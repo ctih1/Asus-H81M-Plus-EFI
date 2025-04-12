@@ -8,6 +8,7 @@ Opencore EFI for my computer.
 | GPU | NVIDIA Gefore GT 1030 |
 | RAM | 16GB of DDR3 @ 1600mhz |
 | Motherboard | Asus H81MD |
+| SSD | Samsung Evo 860 1TB |
 | Bluetooth (dongle) | Asus BT400 |
 | WiFi | Realtek something |
 
